@@ -1,3 +1,2 @@
 # myfirstrepo
-HelloWorld
-#include<stdio.h>
+Prgm in C to print "HelloWorld"
